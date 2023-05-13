@@ -10,7 +10,7 @@ Creating this project after watching CodeWithHarry's Android Studio Video
 
 ## Support
 
-If you have any other questions regarding the use of this library, please contact us for support at joblessguy00@gmail.com (email subject: "Simple Music App. Support request.")
+If you have any other questions regarding the use of this library, please contact us for support at joblessguy00@gmail.com (email subject: "Simple Music App Support request.")
 
 
 ## License
