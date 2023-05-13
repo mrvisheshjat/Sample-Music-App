@@ -6,7 +6,7 @@ Creating this project after watching CodeWithHarry's Android Studio Video
 ![Demo image](/images/demo.gif)
 
 ## Inspiration from
-<strong><a target="_blank" href="[https://youtu.be/-8Yt8EZUdZE?list=PLi-FH7__aeiydOwY_1q5I8P2EUSseqUCj](https://youtu.be/mXjZQX3UzOs)">Android Development Tutorial For Beginners In Hindi (With Notes) 🔥</a></strong>
+<strong><a target="_blank" href="https://youtu.be/mXjZQX3UzOs">Android Development Tutorial For Beginners In Hindi (With Notes) 🔥</a></strong>
 
 ## Support
 
